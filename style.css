@@ -151,7 +151,7 @@ h3{
   transform: translateX(2.2em);
  }
  /*Botão Fim*/
- /*Responsividade tela 1*/
+ /*Responsividade Tela 1*/
  @media screen and (max-width:370px) {
   .login .texto{
     font-size: 0.5em;
@@ -170,8 +170,8 @@ h3{
     width: 77vw;
   }
 }
-/*Responsividade tela 1 fim*/
-/*Tela 1 fim*/
+/*Responsividade Tela 1 Fim*/
+/*Tela 1 Fim*/
 /*Tela 2*/
 #tema{
   width: 90vw;
@@ -520,6 +520,8 @@ nav {
   margin-bottom: 5em;
   grid-row:1;
 }
+/*Tela 5 Fim*/
+/*Responsividade Tela 5*/
 @media screen and (max-width:350px) {
   .wrap-humor{
     width: 25vw;
@@ -527,3 +529,4 @@ nav {
     transition: .5s;
   }
 }
+/*Responsividade Tela 5 Fim*/
